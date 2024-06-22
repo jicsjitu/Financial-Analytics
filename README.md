@@ -2,6 +2,9 @@
 
 Welcome to the Financial Analytics Project repository! This project is designed to help you analyze financial data using Python, providing insightful visualizations and detailed analysis. The repository includes a CSV file containing the financial data and a Jupyter Notebook to process and analyze this data.
 
+![analytics](https://github.com/jicsjitu/Financial-Analytics/assets/162569175/ebe2942c-525b-4462-bbc2-19c2fdf8e0bd)
+
+
 #### Repository Contents
 
 Financial Analytics data.csv: A CSV file containing the financial data.
